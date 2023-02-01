@@ -1,0 +1,17 @@
+{
+  "name": "astro-starter-default",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@storyblok/astro": "^2.0.5",
+    "astro": "^2.0.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.0.1"
+  }
+}
